@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-TARGETDURATION:34
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXTINF:1.033,
+1074_0b53zdxd6wqaiqacvmmnwbtdfsaeh43qbpca.f300.0.ts?index_range=-1:330-330-2088&start_time=0&end_time=1033
+#EXTINF:2.000,
+1074_0b53zdxd6wqaiqacvmmnwbtdfsaeh43qbpca.f300.1.ts?index_range=-1:330-2418-4147&start_time=1033&end_time=3033
+#EXTINF:2.000,
+1074_0b53zdxd6wqaiqacvmmnwbtdfsaeh43qbpca.f300.2.ts?index_range=-1:330-6565-4089&start_time=3033&end_time=5033
+#EXTINF:5.067,
+1074_0b53zdxd6wqaiqacvmmnwbtdfsaeh43qbpca.f300.3.ts?index_range=-1:330-10654-10034&start_time=5033&end_time=10100
+#EXT-X-ENDLIST
